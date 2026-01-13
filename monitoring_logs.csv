@@ -1,0 +1,9 @@
+timestamp,model_version,model_type,input_summary,prediction,latency_ms,feedback_score,feedback_text
+2026-01-12T14:14:16.829659,v1_old,baseline,"Quantity=10, Amount=100.0, Category=Office Supplies, Sub-Category=Binders, PaymentMode=Credit Card",55.09671635951186,5.693912506103516,2,
+2026-01-12T14:14:16.837526,v2_new,improved,"Quantity=10, Amount=100.0, Category=Office Supplies, Sub-Category=Binders, PaymentMode=Credit Card",-6.960347034708903,5.693912506103516,2,
+2026-01-12T14:15:28.195755,v1_old,baseline,"Quantity=10, Amount=100.0, Category=Office Supplies, Sub-Category=Binders, PaymentMode=Credit Card",55.09671635951186,5.693912506103516,2,
+2026-01-12T14:15:28.204078,v2_new,improved,"Quantity=10, Amount=100.0, Category=Office Supplies, Sub-Category=Binders, PaymentMode=Credit Card",-6.960347034708903,5.693912506103516,2,
+2026-01-12T14:15:32.540818,v1_old,baseline,"Quantity=17, Amount=100.0, Category=Furniture, Sub-Category=Binders, PaymentMode=Bank Transfer",89.16965421511915,7.709980010986328,2,
+2026-01-12T14:15:32.545845,v2_new,improved,"Quantity=17, Amount=100.0, Category=Furniture, Sub-Category=Binders, PaymentMode=Bank Transfer",-63.893849843662814,7.709980010986328,2,
+2026-01-12T15:01:23.572956,v1,baseline,"Qty=1, Amt=100.0, Cat=Clothing, Sub=T-shirt, Pay=COD",11.288653402302476,7.916927337646484,4,
+2026-01-12T15:01:23.579911,v2,improved,"Qty=1, Amt=100.0, Cat=Clothing, Sub=T-shirt, Pay=COD",36.940572787180166,7.916927337646484,4,
